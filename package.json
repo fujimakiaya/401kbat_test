@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@colors/colors": "^1.6.0",
+    "axios": "^1.7.4",
+    "csv-parse": "^5.5.6",
+    "fs": "^0.0.1-security",
+    "iconv-lite": "^0.6.3",
+    "readable-stream": "^4.5.2",
+    "winston": "^3.14.2"
+  }
+}
